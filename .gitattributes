@@ -1,3 +1,13 @@
 data_caselaw filter=lfs diff=lfs merge=lfs -text
 data_caselaw.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+case3.zip filter=lfs diff=lfs merge=lfs -text
+case5.zip filter=lfs diff=lfs merge=lfs -text
+case6.zip filter=lfs diff=lfs merge=lfs -text
+case9.zip filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+case2.zip filter=lfs diff=lfs merge=lfs -text
+case4.zip filter=lfs diff=lfs merge=lfs -text
+case7.zip filter=lfs diff=lfs merge=lfs -text
+case8.zip filter=lfs diff=lfs merge=lfs -text
+case1.zip filter=lfs diff=lfs merge=lfs -text

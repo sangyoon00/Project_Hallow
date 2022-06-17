@@ -1,4 +1,3 @@
-### README.md
-- 반갑습니다.
-- 테스트 중 입니다.
-- README.md 에는 간단한 소개 또는 설명글을 작성하시면 됩니다.
+version https://git-lfs.github.com/spec/v1
+oid sha256:250032c7ee9571480236d420a2827af9e53b550df779c6b4468b68efde42c268
+size 145
