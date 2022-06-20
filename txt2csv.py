@@ -14,7 +14,7 @@ def listToString(str_list):
         result += s + " "
     return result.strip()
 
-dir_path = "C:\\Users\\SANGYOON\\Project_Hallow\\case5\\판례내용"
+dir_path = "C:\\Users\\SANGYOON\\Project_H\\Project_Hallow\\case7\\판례내용"
 
 for (root, directories, files) in os.walk(dir_path):
     for file in files:
@@ -37,7 +37,7 @@ for (root, directories, files) in os.walk(dir_path):
         
 
 
-        output_file=open('result.csv','a',newline='')
+        output_file=open('case7_contents.csv','a',newline='')
         wr=csv.writer(output_file, quoting=csv.QUOTE_ALL)
         wr.writerow(result_list)
         
